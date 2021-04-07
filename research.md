@@ -2,11 +2,11 @@
 layout: page
 title: Research
 ---
-My main research is to understand HIV epidemics from Bayesian modelling. I'm also involved in some researches in Imperial College COVID-19 Response Team.  
+My main research is to understand HIV epidemics from statistical modelling. I'm also involved in some researches in Imperial College COVID-19 Response Team.  
 
 ## Current research highlight
 # HIV
-I developed `phyloflow` to adjust sampling heterogeneity and interpret transmission flows from deep sequence data. The package has been applied to several applications:
+I developed [phyloflow](https://github.com/BDI-pathogens/phyloscanner/tree/master/phyloflows) to adjust sampling heterogeneity and interpret transmission flows from deep sequence data. The package has been applied to several applications:
 * Ratmann, O., Kagaayi, J., Hall, M., Golubchick, T., Kigozi, G., **Xi, X**., Wymant, C., Nakigozi, G., Abeler-Dörner, L., Bonsall, D. and Gall, A., 2020. Quantifying HIV transmission flow between high-prevalence hotspots and surrounding communities: a population-based study in Rakai, Uganda. The Lancet HIV, 7(3), pp.e173-e183.
 * Bbosa, N., Ssemwanga, D., Ssekagiri, A., **Xi, X.**, Mayanja, Y., Bahemuka, U., Seeley, J., Pillay, D., Abeler-Dörner, L., Golubchik, T. and Fraser, C., 2020. Phylogenetic and demographic characterization of directed HIV-1 transmission using deep sequences from high-risk and general population cohorts/groups in Uganda. Viruses, 12(3), p.331.
 
