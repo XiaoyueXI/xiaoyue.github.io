@@ -11,6 +11,7 @@ I developed [phyloflow](https://github.com/BDI-pathogens/phyloscanner/tree/maste
 * Bbosa, N., Ssemwanga, D., Ssekagiri, A., **Xi, X.**, Mayanja, Y., Bahemuka, U., Seeley, J., Pillay, D., Abeler-Dörner, L., Golubchik, T. and Fraser, C., 2020. Phylogenetic and demographic characterization of directed HIV-1 transmission using deep sequences from high-risk and general population cohorts/groups in Uganda. Viruses, 12(3), p.331.
 
 # COVID-19
-I participated in some COVID-19 research:
-* Monod, M., Blenkinsop, A., **Xi, X.**, Hebert, D., Bershan, S., Tietze, S., Baguelin, M., Bradley, V.C., Chen, Y., Coupland, H. and Filippi, S., 2021. Age groups that sustain resurging COVID-19 epidemics in the United States. Science, 371(6536).
-* Fu, H., Wang, H., **Xi, X.**, Boonyasiri, A., Wang, Y., Hinsley, W., Fraser, K.J., McCabe, R., Mesa, D.O., Skarp, J. and Ledda, A., 2021. Database of epidemic trends and control measures during the first wave of COVID-19 in mainland China. International Journal of Infectious Diseases, 102, pp.463-471.
+I mainly participated in the following COVID-19 researches:
+* Monod, M^+., Blenkinsop, A.^+, **Xi, X.^+**, Hebert, D.^+, Bershan, S.^+, Tietze, S.^+, Baguelin, M., Bradley, V.C., Chen, Y., Coupland, H. and Filippi, S., 2021. Age groups that sustain resurging COVID-19 epidemics in the United States. Science, 371(6536).
+* Fu, H.^+, Wang, H.^+, **Xi, X.^+**, Boonyasiri, A., Wang, Y., Hinsley, W., Fraser, K.J., McCabe, R., Mesa, D.O., Skarp, J. and Ledda, A., 2021. Database of epidemic trends and control measures during the first wave of COVID-19 in mainland China. International Journal of Infectious Diseases, 102, pp.463-471.
+$^+ - equal contribution$
